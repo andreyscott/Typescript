@@ -1,6 +1,3 @@
-import * as _ from 'lodash';
+let a = 's'
 
-async function hello() {
-    return 'Hello';
-}
-
+console.log(a, 'a',)

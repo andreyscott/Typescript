@@ -1,3 +1,3 @@
 var a = 's';
-console.log(a, 'a');
+console.log();
 //# sourceMappingURL=index.js.map
